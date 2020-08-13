@@ -33,6 +33,7 @@ An application that can be used to capture your screen. Can crop and save to you
 ## Author Credits and Tutorial
 
 Author: Waleed Ahmad
+
 Page Link [https://quantizd.com/building-a-snipping-tool-with-electron-react-and-node-js/]
 
 
